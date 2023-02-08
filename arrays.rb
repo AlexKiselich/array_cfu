@@ -16,3 +16,10 @@ puts colors[1]
 # Which is red. (Because you start at 0 when you count). 
 
 
+# the array method `include?` will be "true" or "false" if the object we are looking for is in the variable or not. ex:
+
+sizes = ["small", "medium", "large"]
+puts sizes.include?("small")
+
+# The code above will return true because in the array "sizes" there is an element called "small"
+
