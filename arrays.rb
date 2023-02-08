@@ -5,3 +5,14 @@ booleans = [true, false, true, false]
 
 # This line of code is pulling the elements in the array based on the index position provided. 
 puts names[2], numbers[3], floats[0], booleans[1]
+
+
+# Index positions are the positions of the elements in the array. They start at 0 and count up. ex:
+
+colors = ["blue", "red", "green"]
+puts colors[1]
+
+# The coding example above shows an array of 3 colors. It is looking at the index pos. of 1.
+# Which is red. (Because you start at 0 when you count). 
+
+
